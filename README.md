@@ -8,7 +8,7 @@
 ```
 
 #### 简介
-node+mongodb+koa+vue2+element-UI的爬虫系统。
+node+mongodb+koa+vue2+element-UI的爬虫。
 
 #### 运行 Run
 ```
