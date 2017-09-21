@@ -12,10 +12,8 @@ node+mongodb+koa+vue2+element-UI的爬虫。
 
 #### 运行 Run
 ```
-# install dependencies
 yarn install
 
-# app running
 yarn dev
 ```
 
