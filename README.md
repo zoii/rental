@@ -26,3 +26,6 @@ yarn build
 
 #### 目的
 一切为了偷懒，具体有什么功能，嗯，= =。看图吧。
+
+#### 截图
+![alt text](https://raw.githubusercontent.com/zoii/rental/master/app/client/screenshot/page.png)
